@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukul ojha</h1>
 <h3 align="center">A Sophomore from M.B.M university and my branch is Computer Science.I am always ready to have new experiences and learn new technologies.</h3>
-<img align = "right" alt = "coding" width = "1000" height="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<img align = "right" alt = "coding" width = "400"  src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul314&label=Profile%20views&color=0e75b6&style=flat" alt="mukul314" /> </p>
 
