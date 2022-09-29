@@ -28,6 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukul314&show_icons=true&locale=en&layout=compact" alt="mukul314" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul314&show_icons=true&locale=en" alt="mukul314" /></p>
-
+[![@mukul314's Holopin board](https://holopin.io/api/user/board?user=mukul314)](https://holopin.io/@mukul314)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul314&" alt="mukul314" /></p>
-[@mukul314's Holopin board](https://holopin.io/api/user/board?user=mukul314)](https://holopin.io/@mukul314)
+
